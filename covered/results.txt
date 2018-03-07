@@ -1,0 +1,43 @@
+12-6:
+size 3
+time .013s
+
+20-30:
+size 6
+time .011s
+
+20-35:
+size 6
+time .012s
+
+30-50:
+size 9
+time .017s
+
+31-15:
+size 9
+time .013s
+
+40-20:
+size 10
+time .025s
+
+63-25:
+size 16
+time 1.115s
+
+35-65:
+size 10
+time .906s
+
+40-60:
+size 14
+time 1.123s
+
+40-80:
+size 9
+time 7.120s
+
+118-30:
+size 10
+time 51.031s
